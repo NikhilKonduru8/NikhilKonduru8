@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning HTML/CSS, Machine Learning
 - 📫 How to reach me: nikhilkonduru8@gmail.com
 - 😄 Pronouns: He/Him
-- 👨‍💻I'm currently working on a College Prediction Model Website
+- 👨‍💻I'm currently working on a building my AI skills.
 
 
