@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikhil Konduru
 - 👀 I’m interested in Tech, Coding, Robotics, etc.
-- 🌱 I’m currently learning HTML/CSS, Machine Learning
 - 📫 How to reach me: nikhilkonduru8@gmail.com
 - 😄 Pronouns: He/Him
-- 👨‍💻 I’m currently learning Python, Java  (and C++) and applying them to ML/AI and Robotics projects
+- 👨‍💻 I’m currently learning Python, Java and applying them to ML/AI and Robotics projects.
+- 🎮 Occasionally I am learning C++ for my Game Development Hobby.
