@@ -4,4 +4,4 @@
 - 😄 Pronouns: He/Him
 - 👨‍💻 I’m currently learning Python, Java and applying them to ML/AI and Robotics projects.
 - 🎮 Occasionally I am learning C++ for my Game Development Hobby.
-- 👴🏼13 Years Old/9th Grader
+- 👴🏼14 Years Old/9th Grader
