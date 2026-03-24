@@ -1,5 +1,6 @@
 # 💫 Hi I'm Nikhil:
-🔭 I’m currently working on improving my AI/ML skills<br>👯 I’m looking to collaborate on making a SAAS<br>🤝 I’m looking for help with Frontend Development<br>🌱 I’m currently learning Next.js/RAG<br>💬 Ask me about ANYTHING!<br> And Even Won a Nasa Hackathon
+NASA Hackathon Global Nominee '25
+🔭 I’m currently working on improving my AI/ML skills<br>👯 I’m looking to collaborate on making a SAAS<br>🤝 I’m looking for help with Frontend Development<br>🌱 I’m currently learning Next.js/RAG<br>💬 Ask me about ANYTHING!<br> 
 
 
 ## 🌐 Socials:
