@@ -1,6 +1,6 @@
 # 💫 Hi I'm Nikhil:
 🚀 NASA Hackathon Global Nominee '25
-<br>🥳 Youngest YC Hackathon Winner<br><br>🔭 I’m currently working on improving my AI/ML skills<br>👯 I’m looking to collaborate on making a SAAS<br>🌱 I’m currently learning Next.js/RAG<br>💬 Ask me about ANYTHING!<br>
+<br>🥳 Youngest YC Hackathon Winner<br>🔭 I’m currently working on improving my AI/ML skills<br>👯 I’m looking to collaborate on making a SAAS<br>🌱 I’m currently learning Next.js/RAG<br>💬 Ask me about ANYTHING!<br>
 
 
 ## 🌐 Socials:
